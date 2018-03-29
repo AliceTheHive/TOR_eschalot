@@ -64,4 +64,4 @@ New code:
 
 Please note: The first F becomes a 7, a change of a single bit.
 
-A precompiled windows executable with the above bogus key patch in the download section.
+A precompiled windows executable with the above bogus key patch in the /files/ section.
