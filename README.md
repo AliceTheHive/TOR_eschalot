@@ -30,29 +30,29 @@ This program offers so much more than just a way to get a specific domain. It al
 Matches generated are sometimes laughable and one needs to mine the better keys from the larger list.
 Sample run:
 
-C:\eschalot-1.2.0>eschalot -cvt4 -l8-16 -f wordlist.txt > results.txt
-Verbose, continuous, no digits, 4 threads, prefixes 8-16 characters long.
-Reading words from wordlist.txt, please wait...
-Loaded 1300814 words.
-Sorting the word hashes and removing duplicates.
-Final word count: 1280298.
-Thread #1 started.
-Thread #2 started.
-Thread #3 started.
-Thread #4 started.
-Running, collecting performance data...
-Found a key for sorehead (8) - soreheadpraggzkd.onion
-Found a key for dampbeam (8) - dampbeam4jmamrku.onion
-Found a key for nineowls (8) - nineowlsxdoz6bo5.onion
-Found a key for highsoap (8) - highsoapwgkdn5uk.onion
-Total hashes: 112207616, running time: 10 seconds, hashes per second: 11220761
-Found a key for poorcork (8) - poorcorkujm7zwdj.onion
-Found a key for neattest (8) - neattestx54ejtwz.onion
-Found a key for goodbuns (8) - goodbunsuqv5mxpx.onion
-Found a key for leanslip (8) - leanslipunvw7xkw.onion
-Found a key for ovalbomb (8) - ovalbombwrlnmyjo.onion
-Found a key for glibteam (8) - glibteamadzo63x3.onion
-Found a key for tidycars (8) - tidycars6oage64o.onion
+C:\eschalot-1.2.0>eschalot -cvt4 -l8-16 -f wordlist.txt > results.txt <br>
+Verbose, continuous, no digits, 4 threads, prefixes 8-16 characters long. <br>
+Reading words from wordlist.txt, please wait... <br>
+Loaded 1300814 words. <br>
+Sorting the word hashes and removing duplicates. <br>
+Final word count: 1280298. <br>
+Thread #1 started. <br>
+Thread #2 started. <br>
+Thread #3 started. <br>
+Thread #4 started. <br>
+Running, collecting performance data... <br>
+Found a key for sorehead (8) - soreheadpraggzkd.onion <br>
+Found a key for dampbeam (8) - dampbeam4jmamrku.onion <br>
+Found a key for nineowls (8) - nineowlsxdoz6bo5.onion <br>
+Found a key for highsoap (8) - highsoapwgkdn5uk.onion <br>
+Total hashes: 112207616, running time: 10 seconds, hashes per second: 11220761 <br>
+Found a key for poorcork (8) - poorcorkujm7zwdj.onion <br>
+Found a key for neattest (8) - neattestx54ejtwz.onion <br>
+Found a key for goodbuns (8) - goodbunsuqv5mxpx.onion <br>
+Found a key for leanslip (8) - leanslipunvw7xkw.onion <br>
+Found a key for ovalbomb (8) - ovalbombwrlnmyjo.onion <br>
+Found a key for glibteam (8) - glibteamadzo63x3.onion <br>
+Found a key for tidycars (8) - tidycars6oage64o.onion <br>
 
 Eschalot may be freed of its bogus key bug by changing one bit in the source. This simultaneously doubles the efficiency of the word list search.
 
