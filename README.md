@@ -2,7 +2,7 @@
 
 Eschalot (Main)
 
-(Main)    https://github.com/ReclaimYourPrivacy/eschalot/archive/master.zip
+(Main)    https://github.com/ReclaimYourPrivacy/eschalot/archive/master.zip <br>
 (Others)  http://skunksworkedp2cg.onion/eschalot-1.2.0.tar.gz
 
 The program:
